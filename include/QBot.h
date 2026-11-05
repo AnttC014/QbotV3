@@ -25,8 +25,10 @@ V3.3 : Dédoublement des fonctions "boutons" de la manette pour
 //Tous ces fichiers doivent être dans le dossier "include"
 #include <QBot_Capteur.h>
 #include <QBot_Encodeur.h>
+#include <QBot_EncodeurFieldOriented.h>
 #include <QBot_Gyro.h>
 #include <QBot_Moteur.h>
+#include <QBot_MoteurFieldOriented.h>
 #include <QBot_Servo.h>
 
 
